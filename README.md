@@ -19,4 +19,5 @@ Available fonts
 6. Noto Sans Tamil UI
 
 Copyright &copy; 2013 Tharique Azeez
+
 The MIT License (MIT)
