@@ -7,7 +7,7 @@ Currently Google Fonts early access segment has six Tamil web fonts, that can be
 
 This is the showcase of those six fonts in action. Also, this is a responsive site that you can see it in live on all your deivces.
 
-=> [Live Preview](http://niram.org/tamil-webfont)
+==> [Live Preview](http://niram.org/tamil-webfont)
 
 Available fonts
 ---------------
